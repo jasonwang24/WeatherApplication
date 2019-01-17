@@ -5,7 +5,6 @@ android {
     buildToolsVersion "27.0.3"
 
     defaultConfig {
-        applicationId "com.example.haroon.myweathertutorial"
         minSdkVersion 23
         targetSdkVersion 23
         versionCode 1
